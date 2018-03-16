@@ -11,7 +11,7 @@ DESC
 s.homepage     = "https://github.com/FullStackEngineer-Zpf/ZFCategory"
 s.license      = "MIT"
 s.author       = { "Zhangpengfei" => "2838118944@qq.com" }
-s.platform     = :ios,'8.0'
+s.platform     = :ios,'5.0'
 
 s.source       = { :git => "https://github.com/FullStackEngineer-Zpf/ZFCategory.git", :tag => "#{s.version}" }
 s.source_files = "Category/*.{h,m}"
